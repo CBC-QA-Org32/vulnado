@@ -46,6 +46,7 @@ public class Postgres {
 
 
 
+
             
             insertUser("admin", "!!SuperSecretAdmin!!");
             insertUser("alice", "AlicePassword!");
